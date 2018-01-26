@@ -57,7 +57,7 @@
     "ConnectionStringName": "northwinddb",
     "DataSetName": "NorthwindDataSet",
     "ProjectName": "NorthwindStandard",
-    "RelativePath": "\\",
+    "RelativePath": "\\MVVMModObj",
     "TemplateId": "4d03f2c7-de26-4aee-a267-cad747c9606a",
     "TemplateName": "MvvmLightModelObject",
     "TemplateVersion": "1.0"
@@ -66,7 +66,7 @@
     "ConnectionStringName": "northwinddb",
     "DataSetName": "NorthwindDataSet",
     "ProjectName": "NorthwindStandard",
-    "RelativePath": "\\",
+    "RelativePath": "\\Repository",
     "TemplateId": "c765a56c-163b-4d2a-863d-3a0a30bbcb15",
     "TemplateName": "Repository",
     "TemplateVersion": "1.0"
@@ -75,7 +75,7 @@
     "ConnectionStringName": "northwinddb",
     "DataSetName": "NorthwindDataSet",
     "ProjectName": "NorthwindStandard",
-    "RelativePath": "\\",
+    "RelativePath": "\\Repository",
     "TemplateId": "70230bd4-f88f-41d8-a9c6-6e40aded5c07",
     "TemplateName": "RepositoryBase",
     "TemplateVersion": "1.0"
@@ -84,7 +84,7 @@
     "ConnectionStringName": "northwinddb",
     "DataSetName": "NorthwindDataSet",
     "ProjectName": "NorthwindStandard",
-    "RelativePath": "\\",
+    "RelativePath": "\\Repository",
     "TemplateId": "f766650e-5c46-4239-b6fd-0cfca2673207",
     "TemplateName": "RepositoryInterface",
     "TemplateVersion": "1.0"
@@ -93,7 +93,7 @@
     "ConnectionStringName": "northwinddb",
     "DataSetName": "NorthwindDataSet",
     "ProjectName": "NorthwindStandard",
-    "RelativePath": "\\",
+    "RelativePath": "\\Repository",
     "TemplateId": "387dfdc5-b9f2-4ab4-accb-00a22cdd916c",
     "TemplateName": "RepositoryInterfaceCrud",
     "TemplateVersion": "1.0"
@@ -102,7 +102,7 @@
     "ConnectionStringName": "northwinddb",
     "DataSetName": "NorthwindDataSet",
     "ProjectName": "NorthwindStandard",
-    "RelativePath": "\\",
+    "RelativePath": "\\MVVMModData",
     "TemplateId": "c5caad15-b3be-4443-87d8-7cabde59f7b0",
     "TemplateName": "SqliteModelData",
     "TemplateVersion": "1.0"
@@ -111,7 +111,7 @@
     "ConnectionStringName": "northwinddb",
     "DataSetName": "NorthwindDataSet",
     "ProjectName": "NorthwindStandard",
-    "RelativePath": "\\",
+    "RelativePath": "\\WebApi",
     "TemplateId": "4b60314b-c212-46e3-8945-3d5daecee905",
     "TemplateName": "WebApiController",
     "TemplateVersion": "1.0"
@@ -120,7 +120,7 @@
     "ConnectionStringName": "northwinddb",
     "DataSetName": "NorthwindDataSet",
     "ProjectName": "NorthwindStandard",
-    "RelativePath": "\\",
+    "RelativePath": "\\WebApi",
     "TemplateId": "424e7ec7-bd9d-4cd3-9257-6ffbc772b82e",
     "TemplateName": "WebApiDataService",
     "TemplateVersion": "1.0"
@@ -129,7 +129,7 @@
     "ConnectionStringName": "northwinddb",
     "DataSetName": "NorthwindDataSet",
     "ProjectName": "NorthwindStandard",
-    "RelativePath": "\\",
+    "RelativePath": "\\WebApi",
     "TemplateId": "b2b99011-802c-4f2d-9da0-30eb01331f89",
     "TemplateName": "WebApiDataServiceBaseInterface",
     "TemplateVersion": "1.0"
@@ -138,7 +138,7 @@
     "ConnectionStringName": "northwinddb",
     "DataSetName": "NorthwindDataSet",
     "ProjectName": "NorthwindStandard",
-    "RelativePath": "\\",
+    "RelativePath": "\\WebApi",
     "TemplateId": "1ea810ed-61a7-443b-97f2-da5b30311e75",
     "TemplateName": "WebApiDataServiceInterface",
     "TemplateVersion": "1.0"
