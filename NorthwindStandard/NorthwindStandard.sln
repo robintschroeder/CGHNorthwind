@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "CodeGenHeroData", "CodeGenHeroData\CodeGenHeroData.shproj", "{73E22E1F-9421-4A9E-9333-2D35F7D9471A}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Repository", "Northwind.Repository\Northwind.Repository.csproj", "{5862C61F-EF10-42F3-96E3-C4F1B0615354}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "CodeGenHero.Data", "CodeGenHero.Data\CodeGenHero.Data.shproj", "{FBD26FD0-CD7E-48AE-9E34-860B7FACEE25}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NorthwindStandard", "NorthwindStandard\NorthwindStandard.csproj", "{B8CA9A87-AEB5-498E-9B19-6ACAAEF65F00}"
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
-		CodeGenHeroData\CodeGenHeroData.projitems*{73e22e1f-9421-4a9e-9333-2d35f7d9471a}*SharedItemsImports = 13
+		CodeGenHero.Data\CodeGenHero.Data.projitems*{fbd26fd0-cd7e-48ae-9e34-860b7facee25}*SharedItemsImports = 13
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{5862C61F-EF10-42F3-96E3-C4F1B0615354}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5862C61F-EF10-42F3-96E3-C4F1B0615354}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5862C61F-EF10-42F3-96E3-C4F1B0615354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8CA9A87-AEB5-498E-9B19-6ACAAEF65F00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8CA9A87-AEB5-498E-9B19-6ACAAEF65F00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8CA9A87-AEB5-498E-9B19-6ACAAEF65F00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8CA9A87-AEB5-498E-9B19-6ACAAEF65F00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
